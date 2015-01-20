@@ -8,7 +8,7 @@ package proves.git;
 
 /**
  *
- * @author alumne
+ * @author David
  */
 public class ProvesGit {
 
